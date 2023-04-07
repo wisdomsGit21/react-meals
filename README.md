@@ -15,7 +15,7 @@ User Accounts: Wizzie Meals allows users to create and manage their accounts. Th
 ## Installation and Setup
 To run Wizzie Meals locally, you need to have Node.js installed on your machine. You can follow these steps to get started:
 
-Clone the repository: git clone https://github.com/wisdomsGit21/react-meals.git
+Clone the repository: git clone https://github.com/wisdomsGit21/wizzie-meals.git
 Install the dependencies: npm install
 Start the development server: npm run dev
 You can now access the app at http://localhost:5173.
